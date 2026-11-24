@@ -1,0 +1,6 @@
+{
+  "appId": "app.sorensavar",
+  "appName": "سورن سوار",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
